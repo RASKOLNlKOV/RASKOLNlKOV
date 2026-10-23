@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://file.garden/abPu6nB8kE0ppP6S/github_RASKOLV2" width="500" alt="image" />
+  <img src="https://file.garden/abPu6nB8kE0ppP6S/github_RASKOLV3" width="500" alt="image" />
   <br> <img src="https://komarev.com/ghpvc/?username=RASKOLNlKOV&style=plastic&color=000000&label=meat&abbreviated=true">
 </p>
